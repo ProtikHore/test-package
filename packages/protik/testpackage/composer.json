@@ -1,0 +1,18 @@
+{
+    "name": "protik/testpackage",
+    "description": "This is a test package.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Protik\\Testpackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Protik Hore"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
